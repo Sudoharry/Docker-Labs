@@ -1,0 +1,3 @@
+[submodule "MERN-docker-compose"]
+  path = MERN-docker-compose
+  url = https://github.com/Sudoharry/Docker-Labs.git
